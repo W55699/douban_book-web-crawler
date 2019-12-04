@@ -1,0 +1,410 @@
+book_name,score,num,picturelink,publisher,publishyear,ISBN,rank
+        我亲爱的甜橙树      ,9.1,5388,https://img1.doubanio.com/view/subject/l/public/s4386309.jpg,天天出版社,2010 ,9787501602933 ,﻿5809
+        教父      ,9.1,13861,https://img3.doubanio.com/view/subject/l/public/s27227804.jpg, 江苏文艺出版社,2014 ,9787539967448 ,﻿6747
+        树上的男爵      ,9.1,17766,https://img1.doubanio.com/view/subject/l/public/s8972078.jpg, 译林出版社,2012 ,9787544722803 ,﻿5019
+        罗马人的故事2      ,9.2,2936,https://img1.doubanio.com/view/subject/l/public/s8859038.jpg, 中信出版社,2011 ,9787508630397 ,﻿132734
+        呼兰河传      ,9,2069,https://img3.doubanio.com/view/subject/l/public/s1934734.jpg, 中国青年出版社,2003 ,9787500652052 ,206141 
+        孽子      ,9.1,10902,https://img3.doubanio.com/view/subject/l/public/s6240330.jpg, 广西师范大学出版社,2010 ,9787563397655 ,205948 
+        木心作品八种      ,9.3,2121,https://img1.doubanio.com/view/subject/l/public/s6497767.jpg, 广西师范大学出版社,2009 ,9787563377381 ,118278 
+        万物既聪慧又奇妙      ,9.2,3059,https://img3.doubanio.com/view/subject/l/public/s4404535.jpg, 中国城市出版社,2010 ,9787507422856 ,116627 
+        局外人      ,9,92848,https://img3.doubanio.com/view/subject/l/public/s4468484.jpg, 上海译文出版社,2010 ,9787532751471 ,110417 
+        荒原狼      ,9,5158,https://img3.doubanio.com/view/subject/l/public/s4477292.jpg, 上海译文出版社,2010 ,9787532751488 ,94598 
+        中国哲学简史      ,9.2,2372,https://img3.doubanio.com/view/subject/l/public/s3825683.jpg, 生活·读书·新知三联书店,2009 ,9787108030795 ,86338 
+        世说新语      ,9.1,1745,https://img3.doubanio.com/view/subject/l/public/s23925082.jpg, 中华书局,2007 ,9787115173430 ,64569 
+        银河帝国3：第二基地      ,9.2,5644,https://img3.doubanio.com/view/subject/l/public/s10393872.jpg, 江苏文艺出版社,2012 ,9787539952680 ,59949 
+        C专家编程      ,9.2,1923,https://img9.doubanio.com/view/subject/l/public/s5886086.jpg, 人民邮电出版社,2008 ,9787115171801 ,53258 
+        温柔的夜      ,9.1,11601,https://img1.doubanio.com/view/subject/l/public/s2391798.jpg, 北京十月文艺出版社,2007 ,9787530208915 ,52894 
+        柏拉图的《会饮》      ,9.2,1325,https://img1.doubanio.com/view/subject/l/public/s1236859.jpg, 华夏出版社,2003 ,9787508031811 ,52780 
+        陶庵梦忆 西湖梦寻      ,9.3,3837,https://img3.doubanio.com/view/subject/l/public/s4039793.jpg, 上海古籍出版社,2001 ,9787532528684 ,52034 
+        热爱生命      ,9,3252,https://img1.doubanio.com/view/subject/l/public/s1234148.jpg, 北京燕山出版社,2000 ,9787540210830 ,46443 
+        飘      ,9.4,4426,https://img3.doubanio.com/view/subject/l/public/s3747710.jpg, 浙江文艺出版社,1988 ,9787533900588 ,44338 
+        绿山墙的安妮      ,9.1,7072,https://img1.doubanio.com/view/subject/l/public/s1050548.jpg, 浙江文艺出版社,2003 ,9787533915889 ,42527 
+        陶渊明集      ,9.4,1516,https://img3.doubanio.com/view/subject/l/public/s4282642.jpg, 中华书局,1979 ,9787101013955 ,41170 
+        金刚经      ,9.5,4229,https://img3.doubanio.com/view/subject/l/public/s5881922.jpg, 中州古籍出版社,2007 ,9787534827310 ,41003 
+        小径分岔的花园      ,9.1,4757,https://img3.doubanio.com/view/subject/l/public/s29481580.jpg, 浙江文艺出版社,2002 ,9787533916367 ,39038 
+        梦里花落知多少      ,9.1,8852,https://img3.doubanio.com/view/subject/l/public/s6011774.jpg, 北京十月文艺出版社,2009 ,9787530209745 ,38230 
+        尼各马可伦理学      ,9.2,1980,https://img1.doubanio.com/view/subject/l/public/s1730749.jpg, 商务印书馆,2003 ,9787100035750 ,37029 
+        玻璃球游戏      ,9,2527,https://img1.doubanio.com/view/subject/l/public/s2623267.jpg, 上海译文出版社,2007 ,9787532742288 ,36966 
+        浪漫主义的根源      ,9.3,2515,https://img3.doubanio.com/view/subject/l/public/s3030362.jpg, 译林出版社,2008 ,9787544703994 ,36889 
+        吉祥纹莲花楼终篇之青龙·白虎      ,9.1,2497,https://img3.doubanio.com/view/subject/l/public/s4519614.jpg, 万卷出版公司,2010 ,9787547011713 ,35553 
+        中国少年儿童百科全书      ,9.1,2011,https://img3.doubanio.com/view/subject/l/public/s4026744.jpg, 浙江教育出版社,1997 ,9787533819477 ,33203 
+        枪炮、病菌与钢铁      ,8.9,2507,https://img1.doubanio.com/view/subject/l/public/s1041419.jpg, 上海译文出版社,2000 ,9787532723553 ,32973 
+        小兔彼得和他的朋友们全3册      ,9,1311,https://img1.doubanio.com/view/subject/l/public/s4042908.jpg, 安徽教育出版社,2009 ,9787533653590 ,32830 
+        中国史纲      ,9.1,1755,https://img9.doubanio.com/view/subject/l/public/s10170776.jpg, 上海古籍出版社,1999 ,9787532526741 ,32820 
+        美国讲稿      ,9,1221,https://img1.doubanio.com/view/subject/l/public/s3006149.jpg, 译林出版社,2008 ,9787544701990 ,31638 
+        精灵宝钻      ,9.2,1450,https://img3.doubanio.com/view/subject/l/public/s10596211.jpg, 译林出版社,2012 ,9787544727709 ,29687 
+        半生缘      ,9.1,9188,https://img1.doubanio.com/view/subject/l/public/s10199588.jpg, 北京十月文艺出版社,2012 ,9787530211144 ,29052 
+        夜莺与玫瑰      ,9.2,1548,https://img1.doubanio.com/view/subject/l/public/s4296928.jpg, 外语教学与研究出版社,2010 ,9787560093352 ,28942 
+        勒·柯布西耶全集      ,9.3,1315,https://img3.doubanio.com/view/subject/l/public/s1399745.jpg, 中国建筑工业出版社,2005 ,9787112071135 ,28177 
+        悲惨世界全三册      ,9.3,2939,https://img9.doubanio.com/view/subject/l/public/s4604906.jpg, 人民文学出版社,2003 ,9787020038985 ,28032 
+        说文解字      ,9.2,1760,https://img3.doubanio.com/view/subject/l/public/s1026024.jpg, 中华书局,1963 ,9787101002607 ,27042 
+        冰与火之歌·卷三·冰雨的风暴全三册      ,9.6,4718,https://img3.doubanio.com/view/subject/l/public/s10215071.jpg, 重庆出版社,2012 ,9787229050979 ,26880 
+        古拉格：一部历史      ,9.2,1996,https://img3.doubanio.com/view/subject/l/public/s26016760.jpg, 新星出版社,2013 ,9787513310901 ,23348 
+        来自新世界 上下      ,9,6091,https://img1.doubanio.com/view/subject/l/public/s27251177.jpg, 上海译文出版社,2014 ,9787532763863 ,22852 
+        永恒的终结      ,9,19702,https://img3.doubanio.com/view/subject/l/public/s29555070.jpg, 江苏文艺出版社,2014 ,9787539957173 ,22459 
+        众病之王      ,9.1,6645,https://img1.doubanio.com/view/subject/l/public/s24598159.jpg, 中信出版社,2013 ,9787508638119 ,21838 
+        人类简史      ,9.1,102847,https://img3.doubanio.com/view/subject/l/public/s27814883.jpg, 中信出版社,2014 ,9787508647357 ,21792 
+        阿城精选集      ,9.1,5592,https://img3.doubanio.com/view/subject/l/public/s8963180.jpg, 北京燕山出版社,2011 ,9787540217792 ,21613 
+        蒋勋说红楼梦第一辑      ,8.9,5953,https://img3.doubanio.com/view/subject/l/public/s6216343.jpg, 上海三联书店,2010 ,9787542632791 ,19642 
+        逻辑哲学论      ,9.2,2259,https://img3.doubanio.com/view/subject/l/public/s2704503.jpg, 商务印书馆,1996 ,9787100029827 ,19355 
+        滚蛋吧!肿瘤君      ,9.2,14792,https://img9.doubanio.com/view/subject/l/public/s20742806.jpg, 北京理工大学出版社,2012 ,9787564067526 ,16457 
+        塔希里亚故事集      ,9.4,4038,https://img1.doubanio.com/view/subject/l/public/s4433958.jpg, 接力出版社,2007 ,9787544800280 ,15840 
+        文学回忆录全2册      ,9.2,28582,https://img1.doubanio.com/view/subject/l/public/s24611679.jpg, 广西师范大学出版社,2013 ,9787549530816 ,14971 
+        看见      ,8.8,232160,https://img3.doubanio.com/view/subject/l/public/s24468373.jpg, 广西师范大学出版社,2013 ,9787549529322 ,14668 
+        鲁迅全集2005最新修订版      ,9.5,4082,https://img3.doubanio.com/view/subject/l/public/s1513604.jpg, 人民文学出版社,2005 ,9787020050338 ,14279 
+        塔希里亚故事集Ⅱ      ,9.4,1548,https://img3.doubanio.com/view/subject/l/public/s26829385.jpg, 接力出版社,2008 ,9787544805537 ,14256 
+        王小波全集      ,9.4,4540,https://img3.doubanio.com/view/subject/l/public/s3432962.jpg, 云南人民出版社,2006 ,9787222047662 ,13460 
+        國史大綱上下      ,9.2,3903,https://img1.doubanio.com/view/subject/l/public/s2161158.jpg, 北京大学出版社,1998 ,9787301037249 ,13204 
+        论美国的民主      ,9.2,6174,https://img1.doubanio.com/view/subject/l/public/s26301247.jpg, 商务印书馆,1989 ,9787100011105 ,13201 
+        上帝掷骰子吗      ,9.2,17938,https://img3.doubanio.com/view/subject/l/public/s1486674.jpg, 辽宁教育出版社,2006 ,9787538276374 ,12959 
+        给青年诗人的信      ,9.1,4805,https://img3.doubanio.com/view/subject/l/public/s1590270.jpg, 上海译文出版社,2005 ,9787532734849 ,12929 
+        快乐王子      ,9.2,8907,https://img3.doubanio.com/view/subject/l/public/s2896390.jpg, 上海译文出版社,2007 ,9787532742790 ,11014 
+        安徒生童话故事集      ,9.1,30911,https://img1.doubanio.com/view/subject/l/public/s3799757.jpg, 北京十月文艺出版社,2009 ,9787530209554 ,10969 
+        平凡的世界全三册      ,9.2,44377,https://img3.doubanio.com/view/subject/l/public/s1066570.jpg, 哈尔滨出版社,2003 ,9787806398791 ,10310 
+        飘      ,9.3,130221,https://img1.doubanio.com/view/subject/l/public/s1078958.jpg, 译林出版社,2000 ,9787806570920 ,9731 
+        三国演义全二册      ,9.2,98813,https://img3.doubanio.com/view/subject/l/public/s1076932.jpg, 人民文学出版社,1998 ,9787020008728 ,9538 
+"
+        王尔德童话
+      ",9.1,13223,https://img9.doubanio.com/view/subject/l/public/s2019056.jpg, 译林出版社,2003 ,9787805676104 ,8989 
+"
+        先知
+      ",9.1,3977,https://img3.doubanio.com/view/subject/l/public/s6846152.jpg, 天津教育出版社,2007 ,9787530949672 ,8869 
+"
+        加缪文集
+      ",9.2,2016,https://img1.doubanio.com/view/subject/l/public/s2264339.jpg, 译林出版社,1999 ,9787805679273 ,8857 
+"
+        维特根斯坦传
+      ",9.1,5152,https://img9.doubanio.com/view/subject/l/public/s6850776.jpg, 浙江大学出版社,2011 ,9787308086141 ,8828 
+"
+        社会性动物
+      ",9.1,6844,https://img3.doubanio.com/view/subject/l/public/s2783843.jpg, 华东师范大学出版社,2007 ,9787561756638 ,8395 
+"
+        公正
+      ",9.1,5599,https://img1.doubanio.com/view/subject/l/public/s4604609.jpg, 中信出版社,2011 ,9787508625874 ,7851 
+"
+        设计模式
+      ",9.1,2809,https://img3.doubanio.com/view/subject/l/public/s1074361.jpg, 机械工业出版社,2000 ,9787111075752 ,7563 
+"
+        人生的智慧
+      ",9.2,4412,https://img3.doubanio.com/view/subject/l/public/s1332575.jpg, 上海人民出版社,2015 ,9787208055162 ,7497 
+"
+        什么是数学
+      ",9.1,3486,https://img3.doubanio.com/view/subject/l/public/s1802550.jpg, 复旦大学出版社,2005 ,9787309044546 ,7011 
+"
+        明朝那些事儿1-9
+      ",9.1,58066,https://img3.doubanio.com/view/subject/l/public/s3792001.jpg, 中国海关出版社,2009 ,9787801656087 ,6651 
+"
+        昨日的世界
+      ",9.2,8290,https://img1.doubanio.com/view/subject/l/public/s1121598.jpg, 广西师范大学出版社,2004 ,9787563345809 ,6598 
+"
+        唐诗鉴赏辞典
+      ",9.2,3898,https://img9.doubanio.com/view/subject/l/public/s1015106.jpg, 上海辞书出版社,1999 ,9787532600755 ,6423 
+"
+        博尔赫斯小说集
+      ",9.2,8654,https://img3.doubanio.com/view/subject/l/public/s1466762.jpg, 浙江文艺出版社,2005 ,9787533922313 ,6331 
+"
+        海的女儿
+      ",9.1,10131,https://img9.doubanio.com/view/subject/l/public/s4133656.jpg, 上海译文出版社,1978 ,9787533922314 ,6048 
+"
+        福尔摩斯探案全集上中下
+      ",9,2718,https://img3.doubanio.com/view/subject/l/public/s3492980.jpg, 上海人民出版社,2008 ,9787208078642 ,6032 
+"
+        追忆似水年华上下册
+      ",9.1,2633,https://img3.doubanio.com/view/subject/l/public/s1989055.jpg, 译林出版社,2001 ,9787805673202 ,5928 
+"
+        忧郁的热带
+      ",9.1,2892,https://img3.doubanio.com/view/subject/l/public/s1817185.jpg, 生活·读书·新知三联书店,2005 ,9787108020987 ,5813 
+"
+        中国历代政治得失
+      ",9.2,34932,https://img1.doubanio.com/view/subject/l/public/s1067497.jpg, 生活·读书·新知三联书店,2001 ,9787108015280 ,5574 
+"
+        爱心树
+      ",9.1,3544,https://img3.doubanio.com/view/subject/l/public/s1112624.jpg, 南海出版公司,2003 ,9787544225151 ,5297 
+"
+        活着
+      ",9.1,84584,https://img3.doubanio.com/view/subject/l/public/s1469173.jpg, 上海文艺出版社,2004 ,9787532125944 ,5257 
+"
+        好妈妈胜过好老师
+      ",9,8557,https://img1.doubanio.com/view/subject/l/public/s3615018.jpg, 作家出版社,2009 ,9787506345040 ,5220 
+"
+        父与子全集
+      ",9.2,32886,https://img1.doubanio.com/view/subject/l/public/s1094608.jpg, 中国工人出版社,2003 ,9787500830146 ,4886 
+"
+        动物农场
+      ",9.2,68474,https://img3.doubanio.com/view/subject/l/public/s2347590.jpg, 上海译文出版社,2007 ,9787532741854 ,4345 
+"
+        沉默的大多数
+      ",9.1,80402,https://img1.doubanio.com/view/subject/l/public/s1447349.jpg, 中国青年出版社,1997 ,9787500627098 ,4300 
+"
+        阿狸·梦之城堡
+      ",9,31327,https://img3.doubanio.com/view/subject/l/public/s3721175.jpg, 上海锦绣文章出版社,2009 ,9787545202267 ,4180 
+"
+        小王子
+      ",9,469012,https://img3.doubanio.com/view/subject/l/public/s1103152.jpg, 人民文学出版社,2003 ,9787020042494 ,4150 
+"
+        白夜行
+      ",9.1,406399,https://img3.doubanio.com/view/subject/l/public/s4610502.jpg, 南海出版公司,2008 ,9787544242516 ,3956 
+"
+        东方快车谋杀案
+      ",9,77700,https://img1.doubanio.com/view/subject/l/public/s1765799.jpg, 人民文学出版社,2006 ,9787020056309 ,3925 
+"
+        傲慢与偏见
+      ",9,30145,https://img1.doubanio.com/view/subject/l/public/s27017338.jpg, 上海译文出版社,1996 ,9787532719112 ,3911 
+"
+        我的精神家园
+      ",9,33362,https://img9.doubanio.com/view/subject/l/public/s1768916.jpg, 生活·读书·新知三联书店,1997 ,9787108010186 ,3433 
+"
+        历史深处的忧虑
+      ",9.1,12798,https://img3.doubanio.com/view/subject/l/public/s1785715.jpg, 机械工业出版社,2003 ,9787111126768 ,3379 
+"
+        十万个为什么
+      ",9.1,9665,https://img1.doubanio.com/view/subject/l/public/s2619779.jpg, 少年儿童出版社,1962 ,9787111126769 ,3368 
+"
+        象棋的故事
+      ",9,7135,https://img3.doubanio.com/view/subject/l/public/s2897060.jpg, 上海译文出版社,2007 ,9787532741601 ,3258 
+"
+        沉默的大多数
+      ",9,13733,https://img9.doubanio.com/view/subject/l/public/s1727466.jpg, 北方文艺出版社,2006 ,9787531719182 ,3254 
+"
+        嫌疑人X的献身
+      ",9,44442,https://img3.doubanio.com/view/subject/l/public/s7049655.jpg, 南海出版公司,2009 ,9787544245555 ,3210 
+"
+        全本新注聊斋志异全三册
+      ",9.1,3151,https://img3.doubanio.com/view/subject/l/public/s2242061.jpg, 人民文学出版社,1989 ,9787020007189 ,3157 
+"
+        楚辞
+      ",9.1,2949,https://img9.doubanio.com/view/subject/l/public/s9846666.jpg, 山西古籍出版社,2003 ,9787805985299 ,3138 
+"
+        2001太空漫游
+      ",9.1,5642,https://img3.doubanio.com/view/subject/l/public/s2798862.jpg, 上海人民出版社,2007 ,9787208074002 ,3082 
+"
+        你一生的故事
+      ",9,6818,https://img9.doubanio.com/view/subject/l/public/s25996026.jpg, 四川科学技术出版社,2005 ,9787536455375 ,3002 
+"
+        金色梦乡
+      ",9,16216,https://img3.doubanio.com/view/subject/l/public/s4444885.jpg, 译林出版社,2010 ,9787544713986 ,2935 
+"
+        寻路中国
+      ",9,37346,https://img1.doubanio.com/view/subject/l/public/s32271209.jpg, 上海译文出版社,2011 ,9787532752805 ,2828 
+"
+        刀锋
+      ",9,45447,https://img3.doubanio.com/view/subject/l/public/s2347562.jpg, 上海译文出版社,2007 ,9787532741922 ,2773 
+"
+        大师和玛格丽特
+      ",9,3509,https://img9.doubanio.com/view/subject/l/public/s2312776.jpg, 人民文学出版社,2004 ,9787020044412 ,2756 
+"
+        我也有一个梦想
+      ",9,12039,https://img3.doubanio.com/view/subject/l/public/s2170315.jpg, 生活·读书·新知三联书店,2004 ,9787108012715 ,2752 
+"
+        人间词话
+      ",9,31486,https://img1.doubanio.com/view/subject/l/public/s9130587.jpg, 上海古籍出版社,1998 ,9787532524808 ,2672 
+"
+        聖經
+      ",9,14406,https://img1.doubanio.com/view/subject/l/public/s1677577.jpg, 中国基督教协会,1996 ,9787532524809 ,2662 
+"
+        受戒
+      ",8.9,57829,https://img3.doubanio.com/view/subject/l/public/s28668834.jpg, 江苏凤凰文艺出版社,2016 ,9787539989891 ,2442 
+"
+        巨人的陨落
+      ",9.1,1117,https://img1.doubanio.com/view/subject/l/public/s28356879.jpg, 广西师范大学出版社,2015 ,9787549573806 ,2442 
+"
+        独裁者手册
+      ",8.8,4531,https://img9.doubanio.com/view/subject/l/public/s27293486.jpg, 江苏文艺出版社,2014 ,9787539973470 ,2388 
+"
+        海洋帝国
+      ",9,2778,https://img1.doubanio.com/view/subject/l/public/s28342679.jpg, 社会科学文献出版社·甲骨文,2014 ,9787509744208 ,2323 
+"
+        灯塔
+      ",9.1,6669,https://img1.doubanio.com/view/subject/l/public/s28369978.jpg, 北京联合出版公司·后浪出版公司,2016 ,9787550268388 ,2271 
+"
+        万水千山走遍
+      ",9,5904,https://img1.doubanio.com/view/subject/l/public/s3752378.jpg, 北京十月文艺出版社,2009 ,9787530209776 ,2204 
+"
+        金枝
+      ",9,1660,https://img3.doubanio.com/view/subject/l/public/s3559585.jpg, 大众文艺出版社,1998 ,9787800941818 ,2138 
+"
+        魔戒
+      ",9.5,3035,https://img1.doubanio.com/view/subject/l/public/s27063429.jpg, 上海人民出版社,2013 ,9787208113039 ,2136 
+"
+        斐多
+      ",9,2225,https://img3.doubanio.com/view/subject/l/public/s29923640.jpg, 生活·读书·新知三联书店,2011 ,9787108036001 ,1996 
+"
+        韦伯作品集Ⅻ:新教伦理与资本主义精神
+      ",9.1,1217,https://img3.doubanio.com/view/subject/l/public/s2610504.jpg, 广西师范大学出版社,2007 ,9787563365326 ,1991 
+"
+        孤城闭
+      ",9,2034,https://img3.doubanio.com/view/subject/l/public/s3989464.jpg, 新世界出版社,2009 ,9787510404429 ,1973 
+"
+        传习录
+      ",9.3,2036,https://img3.doubanio.com/view/subject/l/public/s3451090.jpg, 中州古籍出版社,2008 ,9787534828379 ,1906 
+"
+        C Primer Plus
+      ",9.1,1782,https://img3.doubanio.com/view/subject/l/public/s1308874.jpg, 人民邮电出版社,2005 ,9787115130228 ,1745 
+"
+        万历十五年增订本
+      ",9.1,18125,https://img3.doubanio.com/view/subject/l/public/s3670063.jpg, 中华书局,2007 ,9787101054491 ,1722 
+"
+        论法的精神上
+      ",9,1449,https://img3.doubanio.com/view/subject/l/public/s1011423.jpg, 商务印书馆,1961 ,9787100005685 ,1677 
+"
+        江村经济
+      ",9.4,3972,https://img1.doubanio.com/view/subject/l/public/s5770588.jpg, 宇河文化,2011 ,9789576598494 ,1617 
+"
+        快乐王子
+      ",9.1,2534,https://img3.doubanio.com/view/subject/l/public/s4355770.jpg, 上海文艺出版社,2012 ,9787532144884 ,1559 
+"
+        羊道·深山夏牧场
+      ",9.2,6823,https://img3.doubanio.com/view/subject/l/public/s11337793.jpg, 上海文艺出版社,2007 ,9787532132256 ,1517 
+"
+        羊道·前山夏牧场
+      ",9.1,2596,https://img1.doubanio.com/view/subject/l/public/s5763939.jpg, 上海文艺出版社,2012 ,9787532144877 ,1425 
+"
+        霸王别姬
+      ",9.2,2035,https://img3.doubanio.com/view/subject/l/public/s5097980.jpg, 人民文学出版社,1978 ,9787020017294 ,1422 
+"
+        给青年诗人的信
+      ",9.1,1377,https://img3.doubanio.com/view/subject/l/public/s2579305.jpg, 上海译文出版社,2011 ,9787532753000 ,1409 
+"
+        JavaScript语言精粹
+      ",9.1,1800,https://img1.doubanio.com/view/subject/l/public/s4670398.jpg, 电子工业出版社,2009 ,9787121084379 ,1390 
+"
+        电影是什么？
+      ",9,1546,https://img3.doubanio.com/view/subject/l/public/s4026841.jpg, 文化艺术出版社,2008 ,9787503935275 ,1288 
+"
+        正红旗下
+      ",9.2,2666,https://img9.doubanio.com/view/subject/l/public/s3328566.jpg, 人民文学出版社,1973 ,9787503935276 ,1278 
+"
+        香初上舞·终上
+      ",9,4312,https://img3.doubanio.com/view/subject/l/public/s9038435.jpg, 广西人民出版社,2005 ,9787219052884 ,1245 
+"
+        人生的枷锁
+      ",9,3251,https://img3.doubanio.com/view/subject/l/public/s6107711.jpg, 上海译文出版社,2011 ,9787532753475 ,1230 
+"
+        金庸全集
+      ",9.6,3153,https://img3.doubanio.com/view/subject/l/public/s6385895.jpg, 生活·读书·新知三联书店,1994 ,9787845410256 ,1212 
+"
+        毛泽东选集
+      ",9.2,6202,https://img3.doubanio.com/view/subject/l/public/s3657325.jpg, 人民出版社,1991 ,9787010009148 ,1202 
+"
+        庄子諵譁下
+      ",9.2,4796,https://img1.doubanio.com/view/subject/l/public/s2663678.jpg, 人民文学出版社,1973 ,9787101003889 ,1147 
+"
+        故事新编
+      ",9.3,1998,https://img3.doubanio.com/view/subject/l/public/s29834872.jpg, 人民文学出版社,2005 ,9787020046348 ,1137 
+"
+        汪曾祺小说经典
+      ",9.1,2831,https://img1.doubanio.com/view/subject/l/public/s1528318.jpg, 人民邮电出版社,2010 ,9787115226266 ,1054 
+"
+        海子诗全集
+      ",9.2,8063,https://img3.doubanio.com/view/subject/l/public/s1381574.jpg, 作家出版社,2009 ,9787506346207 ,928 
+"
+        约翰·克利斯朵夫共四册
+      ",9.1,2781,https://img3.doubanio.com/view/subject/l/public/s3670242.jpg, 人民文学出版社,1957 ,9787506346208 ,886 
+"
+        牡丹亭
+      ",9.1,2179,https://img1.doubanio.com/view/subject/l/public/s4088678.jpg, 人民文学出版社,2005 ,9787020051816 ,799 
+"
+        雕刻时光
+      ",9,4321,https://img3.doubanio.com/view/subject/l/public/s3979854.jpg, 人民文学出版社,2003 ,9787020039852 ,740 
+"
+        死屋手记
+      ",9.1,2019,https://img3.doubanio.com/view/subject/l/public/s27276912.jpg, 人民文学出版社,2011 ,9787020015207 ,711 
+"
+        纪伯伦诗集
+      ",9.1,1762,https://img3.doubanio.com/view/subject/l/public/s6537792.jpg, 北京出版社,2006 ,9787200062588 ,707 
+"
+        沙与沫
+      ",9.1,1607,https://img3.doubanio.com/view/subject/l/public/s6451765.jpg, 哈尔滨出版社,2004 ,9787806993262 ,543 
+"
+        海风中失落的血色馈赠
+      ",9.1,7011,https://img3.doubanio.com/view/subject/l/public/s25808310.jpg, 上海文艺出版社,2015 ,9787532156825 ,528 
+"
+        极简宇宙史
+      ",9.1,5851,https://img3.doubanio.com/view/subject/l/public/s28323992.jpg, 上海三联书店,2016 ,9787542654434 ,476 
+"
+        追忆似水年华
+      ",9.2,3376,https://img3.doubanio.com/view/subject/l/public/s28453934.jpg, 译林出版社,2012 ,9787544716239 ,457 
+"
+        我们时代的神经症人格
+      ",9,3299,https://img3.doubanio.com/view/subject/l/public/s10279533.jpg, 译林出版社,2011 ,9787544717564 ,442 
+"
+        受戒
+      ",9.1,9634,https://img1.doubanio.com/view/subject/l/public/s4048689.jpg, 上海译文出版社,2013 ,9787532761760 ,421 
+"
+        局外人
+      ",9.1,6658,https://img3.doubanio.com/view/subject/l/public/s27003183.jpg, 新星出版社,2013 ,9787513311762 ,386 
+"
+        一个叫欧维的男人决定去死
+      ",9,25395,https://img3.doubanio.com/view/subject/l/public/s27115721.jpg, 四川文艺出版社,2015 ,9787541142185 ,333 
+"
+        新月集·飞鸟集
+      ",9.1,1285,https://img3.doubanio.com/view/subject/l/public/s1257163.jpg, 北京十月文艺出版社,2009 ,9787530209820 ,284 
+"
+        乱世佳人上、下
+      ",9.4,6082,https://img3.doubanio.com/view/subject/l/public/s3958385.jpg, 上海译文出版社,1997 ,9787532719143 ,281 
+"
+        温柔的夜
+      ",9.1,6746,https://img3.doubanio.com/view/subject/l/public/s1203052.jpg, 北京十月文艺出版社,2009 ,9787530209721 ,213 
+"
+        阿拉伯的劳伦斯
+      ",9.1,2869,https://img3.doubanio.com/view/subject/l/public/s1441361.jpg, 社会科学文献出版社,2014 ,9787509759233 ,196 
+"
+        中国哲学简史
+      ",9.1,1047,https://img3.doubanio.com/view/subject/l/public/s4157180.jpg, 天津社会科学院出版社,2005 ,9787806882214 ,185 
+"
+        C和指针
+      ",9,1379,https://img3.doubanio.com/view/subject/l/public/s1728390.jpg, 人民邮电出版社,2008 ,9787115172013 ,182 
+"
+        论自由
+      ",9.4,2779,https://img3.doubanio.com/view/subject/l/public/s3245130.jpg, 广西师范大学出版社,2011 ,9787549505210 ,180 
+"
+        有匪1
+      ",8.9,7775,https://img1.doubanio.com/view/subject/l/public/s1474849.jpg, 湖南文艺出版社,2016 ,9787540477950 ,165 
+"
+        沈从文的后半生
+      ",8.9,17106,https://img1.doubanio.com/view/subject/l/public/s6781748.jpg, 江苏凤凰文艺出版社,2017 ,9787539999074 ,163 
+"
+        世界的凛冬
+      ",9.1,4133,https://img1.doubanio.com/view/subject/l/public/s28322337.jpg, 上海文艺出版社,2016 ,9787532158690 ,156 
+"
+        人鼠之间
+      ",9,9449,https://img1.doubanio.com/view/subject/l/public/s29331058.jpg, 江西人民出版社,2016 ,9787210082835 ,141 
+"
+        欲望号街车
+      ",9.2,1477,https://img3.doubanio.com/view/subject/l/public/s28561075.jpg, 复旦大学出版社,2003 ,9787309036985 ,134 
+"
+        哲学研究
+      ",9,1387,https://img3.doubanio.com/view/subject/l/public/s6158774.jpg, 上海人民出版社,2005 ,9787208054707 ,108 
+"
+        海伯利安
+      ",9.2,4566,https://img3.doubanio.com/view/subject/l/public/s1322641.jpg, 吉林出版集团有限责任公司,2014 ,9787553452937 ,95 
+"
+        经济解释卷一： 科学说需求 神州增订版
+      ",9,1231,https://img3.doubanio.com/view/subject/l/public/s27537735.jpg, 中信出版社,2010 ,9787508620831 ,91 
+"
+        罗生门
+      ",9.1,4084,https://img3.doubanio.com/view/subject/l/public/s6500083.jpg, 云南人民出版社,2015 ,9787222132405 ,90 
+"
+        我与地坛
+      ",9,43245,https://img3.doubanio.com/view/subject/l/public/s1057173.jpg, 春风文艺出版社,2002 ,9787531324362 ,79 
+"
+        斯·茨威格中短篇小说选
+      ",9.1,2659,https://img1.doubanio.com/view/subject/l/public/s4510109.jpg, 人民文学出版社,2006 ,9787020054305 ,65 
+"
+        毛姆短篇小说精选集
+      ",9.1,7176,https://img3.doubanio.com/view/subject/l/public/s1317602.jpg, 译林出版社,2012 ,9787544728669 ,46 
+"
+        阿勒泰的角落
+      ",9.1,9398,https://img1.doubanio.com/view/subject/l/public/s2059828.jpg, 万卷出版公司,2010 ,9787547010105 ,30 
+"
+        四世同堂
+      ",9.3,10034,https://img9.doubanio.com/view/subject/l/public/s24174596.jpg, 北京十月文艺出版社,2008 ,9787530209226 ,30 
+"
+        基督山伯爵上下册
+      ",9.2,11190,https://img3.doubanio.com/view/subject/l/public/s6185540.jpg, 上海译文出版社,2007 ,9787532739981 ,30 
+"
+        卡尔维诺文集第五卷
+      ",9,3036,https://img1.doubanio.com/view/subject/l/public/s3424257.jpg, 译林出版社,2001 ,9787806570869 ,27 
+"
+        艺术的故事
+      ",9.6,11614,https://img1.doubanio.com/view/subject/l/public/s1672367.jpg, 广西美术出版社,2008 ,9787807463726 ,16 
