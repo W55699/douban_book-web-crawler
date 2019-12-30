@@ -19,7 +19,7 @@ score = l1['score']
 ax.barh( y_pos, score, align='center', height=1.2)
 ax.set_yticks(y_pos)
 ax.set_yticklabels(l1['book_name'])
-ax.invert_yaxis()  # labels read top-to-bottom
+ax.invert_yaxis() 
 ax.set_xlabel('评分')
 ax.set_title('2000年以后出版的评分top20图书')
 
@@ -56,7 +56,7 @@ comments = d1['num']
 ax.barh( y_pos, comments, align='center', height=1.2)
 ax.set_yticks(y_pos)
 ax.set_yticklabels(d1['book_name'])
-ax.invert_yaxis()  # labels read top-to-bottom
+ax.invert_yaxis()  
 ax.set_xlabel('评论')
 ax.set_title('评论top10图书')
 
@@ -84,7 +84,6 @@ ax.set_xlabel('评分')
 ax.set_ylabel('评分数量')
 ax.set_title('评分分布')
 
-# Tweak spacing to prevent clipping of ylabel
 fig.tight_layout()
 plt.show()
 
