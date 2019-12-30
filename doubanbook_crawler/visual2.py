@@ -18,7 +18,7 @@ score = ds['score']
 ax.barh( y_pos, score, align='center', height=1.2)
 ax.set_yticks(y_pos)
 ax.set_yticklabels(ds['book_name'])
-ax.invert_yaxis()  # labels read top-to-bottom
+ax.invert_yaxis()  
 ax.set_xlabel('评分')
 ax.set_title('评分top10图书')
 
